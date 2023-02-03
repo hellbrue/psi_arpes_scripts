@@ -1,6 +1,6 @@
 # Ignore plots and h5 data
-**/.h5
-**/.png
+*.h5
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
